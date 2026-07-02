@@ -1,6 +1,6 @@
 ### Hello dear ones, I am Pankaj! 👋
 
-
+- I 'm a Computer science educator @Bihar government 
 - 🔭 I’m currently working on : Coding
 - 🌱 I’m currently learning : DSA | HTML | CSS | Coding challange
 - 💬 Ask me about : Technology
